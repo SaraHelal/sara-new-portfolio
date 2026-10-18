@@ -113,7 +113,7 @@ function ProjectPreview() {
     <div className="preview">
       <div className="preview-image-wrapper">
         <img
-          src="public/projects/quran-mobile.png"
+          src="/projects/quran-mobile.png"
           alt="Screenshot of my Quran Revision mobile application"
           className="preview-app-image"
         />
