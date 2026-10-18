@@ -2107,3 +2107,16 @@ button:focus-visible {
     margin-top: 20px;
   }
 }
+
+/* Hide scroll hint on desktop */
+.hero-footnote {
+  display: none;
+}
+
+/* Show scroll hint on mobile */
+@media (max-width: 800px) {
+  .hero-footnote {
+    display: flex;
+    justify-content: center;
+  }
+}

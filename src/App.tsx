@@ -194,7 +194,6 @@ function App() {
               </div>
 
               <div className="hero-footnote">
-                <span>01 — 05</span>
                 <span>SCROLL TO EXPLORE ↓</span>
               </div>
             </div>
